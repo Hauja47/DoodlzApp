@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Doodlz App</string>
+    <string name="button_erase">Xóa hình ảnh</string>
+    <string name="button_set_color">Chọn màu</string>
+</resources>
